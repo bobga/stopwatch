@@ -2,6 +2,8 @@
 
 Stopwatch App
 
+![screenshot](screenshot1.jpg)
+
 ## Getting Started
 
 This requirement of this project is below.
@@ -21,3 +23,4 @@ This requirement of this project is below.
 - Resetting means that all laps are reset
 
 - Resetting means that overall time is also reset
+
