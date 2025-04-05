@@ -36,7 +36,7 @@ A modern, cross-platform stopwatch application built with Flutter that provides 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch.git
+   git clone https://github.com/bobga/stopwatch.git
    cd stopwatch
    ```
 
